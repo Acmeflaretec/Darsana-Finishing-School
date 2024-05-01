@@ -343,7 +343,7 @@ button {
 }
 .more_bt a{
     width: 100%;
-    float: left;
+    float: left;    
     font-size: 16px;
     color: #fffdfd;
     background-color: #470005;
@@ -958,4 +958,10 @@ input.mail_bt::placeholder {
 .names{
     font-size: medium;
     padding-left: 5px;
+}
+.new{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+margin-bottom: 50px;
 }
